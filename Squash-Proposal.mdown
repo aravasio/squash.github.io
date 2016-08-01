@@ -1,0 +1,11 @@
+# **SQUASH OPEN SOURCE PROPOSAL**
+
+
+#### What is squash?
+[Squash](https://github.com/SolsticeConsulting/Squash "Github Link") is a library meant to streamline the process of bug reporting into Rally _directly from the testing device_. It's easy to integrate, easy to deploy to debug-only builds (so that RC or Release builds don't implement it), and it's full of potential.
+
+#### Why should solstice make squash open source?
+Right now, and to the best of my knowledge, Squash is an orphaned project within Solstice. Nobody is maintaining it, nor promoting its use. By making Squash open source, there would be reason for some of us to work on it on our own leisure hours. At best, if Squash takes off, it will give Solstice recognition (think Twitter's Foundation or Facebook's Hack). At worst, it will die in Github repo-hell without much popularity. As of today I found little to no products that do what Squash does. And those that do, don't quite do it as cleverly as Squash.
+
+#### Is there a roadmap for this pre and post Open Source?
+Why, there sure is! Pre-release we hope to polish and fix some issues with UI. Post-release we want to add support for platforms other than Rally (Jiira, etc), and make it useful for reporting UI Potential Improvements and such without all the hassle.
